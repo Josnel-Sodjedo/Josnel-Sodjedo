@@ -1,62 +1,7 @@
-<!-- ================= STYLE ================= -->
-
-<style>
-
-.tech-container{
-  display:flex;
-  flex-direction:column;
-  gap:22px;
-  margin-top:20px;
-}
-
-.tech-category{
-  background:#0d1117;
-  padding:22px;
-  border-radius:14px;
-  border:1px solid #30363d;
-  box-shadow:0 0 20px rgba(0,0,0,0.3);
-}
-
-.tech-category h3{
-  color:#58a6ff;
-  margin-bottom:12px;
-}
-
-.tech-grid{
-  display:flex;
-  flex-wrap:wrap;
-  gap:12px;
-}
-
-.tech-card{
-  background:#161b22;
-  padding:10px 16px;
-  border-radius:10px;
-  border:1px solid #30363d;
-  transition:all .25s ease;
-  font-weight:500;
-  cursor:default;
-}
-
-.tech-card:hover{
-  transform:translateY(-4px) scale(1.03);
-  background:#21262d;
-  border-color:#58a6ff;
-}
-
-/* Glow title */
-.glow{
-  text-shadow:0 0 10px rgba(88,166,255,0.6);
-}
-
-</style>
-
-<!-- ================= HEADER ================= -->
-
-<h1 align="center" class="glow">Hi 👋, I'm Josnel</h1>
+<h1 align="center">Hi 👋, I'm Josnel</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+%26+Mobile+Developer;Problem+Solver;Future+Tech+Entrepreneur;Building+Solutions+That+Matter&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+%26+Mobile+Developer;Problem+Solver;Future+Tech+Entrepreneur;Building+Solutions+That+Matter&center=true&width=520&height=45">
 </p>
 
 <p align="center">
@@ -70,9 +15,9 @@
 I’m a passionate **Web & Mobile Developer** focused on transforming ideas into real digital products.
 
 My journey started during high school where I discovered **JavaScript, PHP, SQL and algorithms**.  
-Since then, I’ve been building real platforms, dashboards and management systems solving real-world problems.
+Since then, I’ve been building platforms, dashboards and management systems solving real-world problems.
 
-I love creating systems that are **useful, scalable and user-centered**.
+I enjoy creating systems that are **useful, scalable and user-centered**.
 
 ---
 
@@ -81,56 +26,31 @@ I love creating systems that are **useful, scalable and user-centered**.
 - 📚 **Scholalink** — Collaborative academic platform  
 - 💊 **PharmaLocal** — Medicine availability & geolocation system  
 - 🏫 Secure school management systems  
-- 📱 Mobile applications for business management
+- 📱 Mobile applications for business management  
 
 ---
 
 ## ⚡ Tech Stack
 
-<div class="tech-container">
+### 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,bootstrap" />
+</p>
 
-  <div class="tech-category">
-    <h3>🎨 Frontend</h3>
-    <div class="tech-grid">
-      <div class="tech-card">HTML5</div>
-      <div class="tech-card">CSS3</div>
-      <div class="tech-card">JavaScript</div>
-      <div class="tech-card">TypeScript</div>
-      <div class="tech-card">Angular</div>
-      <div class="tech-card">React</div>
-      <div class="tech-card">TailwindCSS</div>
-      <div class="tech-card">Bootstrap</div>
-    </div>
-  </div>
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
 
-  <div class="tech-category">
-    <h3>⚙️ Backend</h3>
-    <div class="tech-grid">
-      <div class="tech-card">PHP</div>
-      <div class="tech-card">MySQL</div>
-      <div class="tech-card">REST APIs</div>
-    </div>
-  </div>
+### 📱 Mobile
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,flutter" />
+</p>
 
-  <div class="tech-category">
-    <h3>📱 Mobile</h3>
-    <div class="tech-grid">
-      <div class="tech-card">Java Android</div>
-      <div class="tech-card">Flutter (Learning)</div>
-    </div>
-  </div>
-
-  <div class="tech-category">
-    <h3>🛠 Tools</h3>
-    <div class="tech-grid">
-      <div class="tech-card">Git</div>
-      <div class="tech-card">GitHub</div>
-      <div class="tech-card">Figma</div>
-      <div class="tech-card">Chart.js</div>
-    </div>
-  </div>
-
-</div>
+### 🛠 Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
 
 ---
 
@@ -140,15 +60,19 @@ I love creating systems that are **useful, scalable and user-centered**.
 - 🌍 Creating impactful African tech solutions  
 - 🧠 Exploring AI & intelligent systems  
 - 📱 Learning Flutter  
-- 💡 Growing into a Tech Entrepreneur
+- 💡 Growing into a Tech Entrepreneur  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Josnel-Sodjedo&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josnel-Sodjedo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Josnel-Sodjedo&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josnel-Sodjedo&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josnel-Sodjedo&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
