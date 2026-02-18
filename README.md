@@ -1,89 +1,87 @@
-<h1 align="center">Hi 👋, I’m Josnel</h1>
+<h1 align="center">Hi 👋, I'm Josnel</h1>
 
 <p align="center">
-Software Developer 💻 | Problem Solver 🚀 | Building innovative digital systems in Africa
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+%26+Mobile+Developer;Problem+Solver;Future+Tech+Entrepreneur;Building+Solutions+That+Matter&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+💻 Software Developer • 🚀 Innovation Lover • 🌍 Building impactful digital systems in Africa
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Web & Mobile Developer passionate about creating digital solutions that solve real-life problems.  
-My journey into tech started with curiosity, but quickly became a mission: **designing useful systems that improve everyday experiences**.
+I’m a passionate **Web & Mobile Developer** focused on transforming ideas into real digital products.  
+My journey started with curiosity during high school and evolved into building complete platforms, dashboards, and management systems solving real-world problems.
 
-I enjoy transforming ideas into functional platforms — from academic systems to real-world business applications — while continuously learning and evolving.
-
-Curious by nature, I explore new technologies, algorithms, and modern development practices to push my limits and build smarter products.
+I enjoy designing systems that are **useful, scalable, and user-centered**, while constantly learning new technologies.
 
 ---
 
-## 🚀 My Story
+## 🚀 My Journey
 
-My path into programming began during high school, where I discovered **JavaScript, PHP, SQL, and algorithmic thinking**.  
-What started as learning concepts soon turned into building real applications.
+✨ Started programming in high school with **JavaScript, PHP, SQL & Algorithms**  
+✨ Built academic and collaborative platforms  
+✨ Developed secure systems and modern dashboards  
+✨ Created real solutions for students and local businesses
 
-Step by step, I moved from small experiments to structured projects:
+Projects that shaped my experience:
 
-- Development of secure academic platforms
-- Collaborative systems for students
-- Dashboard-based management applications
-- Mobile and web solutions designed for local businesses
-
-Through projects and internships, I learned not only coding, but also **problem analysis, UI structure, and real-world system design**.
-
----
-
-## 🧠 Today
-
-Today, I focus on building scalable and practical solutions, especially projects that can grow into startups.
-
-Some of the projects shaping my experience include:
-
-- 📚 **Scholalink** — a collaborative academic platform
-- 💊 **PharmaLocal** — a geolocation-based system to find available medicines nearby
-- 🏫 Secure school management and forum systems
-- 📱 Mobile applications for business management
-
-I love working on dashboards, system architecture, and user-centered interfaces inspired by modern platforms.
+- 📚 **Scholalink** — collaborative academic platform  
+- 💊 **PharmaLocal** — medicine availability & geolocation system  
+- 🏫 School management & secure forum systems  
+- 📱 Mobile business management applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-HTML5 • CSS3 • JavaScript • TypeScript • TailwindCSS • Bootstrap • Angular • React (learning)
-
-### Backend
-PHP • MySQL • REST APIs
-
-### Mobile
-Java (Android) • Flutter (learning)
-
-### Tools & Workflow
-Git • GitHub • Figma • Chart.js • Responsive UI Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,bootstrap,tailwind,angular,react,git,github,figma,flutter" />
+</p>
 
 ---
 
-## 📈 What Drives Me
+## 📊 GitHub Stats
 
-I’m currently on a journey to:
-
-- Build scalable SaaS platforms
-- Create impactful tech solutions in Africa
-- Master system architecture and modern frameworks
-- Explore Data, AI, and intelligent automation
-- Grow from developer → tech entrepreneur
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🔥 What I'm Currently Focused On
 
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
-- 💼 Portfolio: coming soon
-- 📧 Contact: yourmail@example.com
+- 🚀 Building scalable SaaS platforms
+- 🌍 Creating impactful African tech solutions
+- 🧠 Exploring AI, Data & intelligent systems
+- 📱 Learning Flutter for cross-platform apps
+- 💡 Growing from Developer → Tech Entrepreneur
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-✨ My philosophy: Learn constantly, build boldly, and turn ideas into real solutions.
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
+
+---
+
+<h3 align="center">✨ Learn constantly. Build boldly. Ship real solutions.</h3>
