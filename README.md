@@ -98,14 +98,19 @@ I enjoy creating systems that are **useful, scalable and user-centered**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sosnel-sodjedo&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josnel-sodjedo&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josnel-Sodjedo&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Josnel-Sodjedo&show_icons=true&theme=tokyonight&hide_border=true"/>
+ <!-- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Josnel-Sodjedo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"/> -->
+
 </p>
+
+
+
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Josnel-Sodjedo&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ---
 
